@@ -3,7 +3,7 @@
 **Student Name:** Shivam Indore  
 **Roll No.:** 2023BTCSE016  
 **Course:** B.Tech CSE, 4th Year  
-**Subject:** Soft Computing Exercise  
+**Subject:** Soft Computing **Assignment 2 module 2**
 
 This project contains short Jupyter Notebook practicals for **Module 2: Artificial Neural Networks (ANNs)** in Soft Computing.
 
